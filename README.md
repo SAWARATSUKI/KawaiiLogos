@@ -1,5 +1,7 @@
 # KawaiiLogos
 
+[简体中文 README](./README-zhHans.md)
+
 こんにちは、こんばんは。このリポジトリはさわらつきが作成したロゴがアップロードされているリポジトリです。
 
 > [!WARNING]  
