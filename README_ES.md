@@ -25,14 +25,14 @@ Aquí, "oficial" se refiere a las entidades o personas que mantienen los derecho
 
 - El uso personal es libre.  
 Por ejemplo, la producción de pegatinas cae bajo uso personal.
-  > [!WARNING]  
-    No puede vender productos creados usando estos logos.
+> [!WARNING]
+> No puede vender productos creados usando estos logos.
 - El uso comercial generalmente no está permitido.  
 Sin embargo, el uso comercial es posible en los siguientes casos:
-  - Si desea usar un logo oficialmente o ha obtenido permiso de acuerdo con todas las cláusulas de esta licencia de la entidad oficial.
-  - Si está permitido según la "Licencia de cada logo" a continuación.
-  - Si la entidad oficial lo permite.
-  - Si en "Licencias y notas específicas de cada logo" se indica que el uso comercial es posible.
+> - Si desea usar un logo oficialmente o ha obtenido permiso de acuerdo con todas las cláusulas de esta licencia de la entidad oficial.
+> - Si está permitido según la "Licencia de cada logo" a continuación.
+> - Si la entidad oficial lo permite.
+> - Si en "Licencias y notas específicas de cada logo" se indica que el uso comercial es posible.
 - No es necesario mencionar a mí o a este repositorio en los productos creados usando los logos de este repositorio, pero hacerlo puede motivar a Sawaratsuki.
 - Sawaratsuki no asume ninguna responsabilidad por daños que surjan de usar el contenido de este repositorio.
 
