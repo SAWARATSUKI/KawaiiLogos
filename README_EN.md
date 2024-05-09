@@ -26,7 +26,7 @@ Here, "official" refers to the entities or persons who hold the rights to logos 
 - Personal use is free.
   For example, sticker production falls under personal use.
   > [!WARNING]
-  > You may not sell products created using these logos.
+  > You may not sell products created using these logos without the permission of [Sawaratsuki](https://x.com/sawaratsuki1004)!
   >
 - Commercial use is generally not allowed.
   However, commercial use is possible in the following cases:
