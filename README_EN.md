@@ -45,7 +45,7 @@ In addition to the general clauses, please follow these licenses when using the 
 ### Response code series
 
 > Codes like 404 NotFound, 403 Forbidden, 503 Service Unavailable, etc.,
-> They can be used on for-profit websites, among others.
+> Can be used on monetized websites/for-profit websites, etc.
 
 ### Kotlin
 
