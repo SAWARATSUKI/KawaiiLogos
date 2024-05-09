@@ -1,70 +1,75 @@
 # KawaiiLogos
 
-Hello, good afternoon. This repository is where the logos created by Sawaratsuki have been uploaded.
+Hello and good evening. This is the repository where the logos created by Sawaratsuki are uploaded.
 
-> [!WARNING]
-> The logos present here are created by Sawaratsuki, not by the services or entities they represent.
-> Not all are official logos in use.
-> Please be careful with too much "kawaii".
+## Languages
 
-> [!IMPORTANT]
-> You may not use the content of this repository in AI or anything Sawaratsuki considers equivalent to AI.
-> Please keep this in mind.
+- [Japanese](./README.md)
+
+
+> [!WARNING].  
+ The logo here is the logo created by Sawaratsuki. They are not created by the respective services or organizations.  
+ Not all logos are officially used.
+ Please be careful not to overdose on "kawaii".  
+
+> [!IMPORTANT].  
+ The contents of this repository may not be used for AI or anything else that Sawaratsuki deems equivalent.  
+ Please be aware of this.
 
 ## License
 
-This repository is licensed under the following custom license.
+This repository is licensed under the following proprietary license.
 
-### If you want to use a logo, please read this first
+### If you want to use the logo, please read this section.
 
 ### Definitions
 
-Here, "official" refers to the entities or persons who hold the rights to logos that were not created by Sawaratsuki, or any equivalent entity or organization.
+"Official" here refers to the person or organization that holds the rights to the logo, not the name of each logo or the logo originally created by Sawaratsuki.
 
-### General clauses
+### All terms
 
-- Personal use is free.
-  For example, sticker production falls under personal use.
-  > [!WARNING]
-  > You may not sell products created using these logos without the permission of [Sawaratsuki](https://x.com/sawaratsuki1004)!
-  >
-- Commercial use is generally not allowed.
-  However, commercial use is possible in the following cases:
-  - If you wish to use a logo officially or have obtained permission in accordance with all clauses of this license from the official entity.
-  - If permitted under the "Each Logo License" below.
-  - If the official entity allows it.
-  - If "Licenses and specific notes for each logo" indicate that commercial use is possible.
-- It is not necessary to mention me or this repository on products created using this repository's logos, but doing so may motivate Sawaratsuki.
-- Sawaratsuki assumes no responsibility for damages arising from using the content of this repository.
+- You are free to use the logos for personal use only.  
+For example, sticker production is considered personal use.
+  > [!WARNING].  
+    Any work created using this logo may not be sold.
+- Commercial use of the logo is basically prohibited.  
+However, commercial use is allowed in the following cases
+  - If you are using the logo as the official logo of the logo you wish to use for commercial purposes, or if you have obtained permission from the official for all the terms of this license.  
+  - If you are permitted to use the logo in accordance with the "License of each logo" below
+  - If permitted by the respective official.
+  - If the "License and Notes for each logo" states that the logo may be used for commercial purposes.
+- You don't have to mention me or this repository on your work using the logos in this repository, but it would be nice if you could.  
+  However, it will motivate Sawaratsuki if you clearly state it.
+- In no case will Sawaratsuki be liable for any damage caused by the contents of this repository.
 
-## Licenses and specific notes for each logo
+## Licenses and notes for each logo
 
-These are the licenses applied to each logo.
-In addition to the general clauses, please follow these licenses when using the logos.
+This section is a license that applies to each logo.  
+In addition to the above, please use the logos in accordance with the following licenses.  
 
-### Response code series
+### Response Codes
 
-> Codes like 404 NotFound, 403 Forbidden, 503 Service Unavailable, etc.,
-> Can be used on monetized websites/for-profit websites, etc.
+> Response codes such as 404 NotFound, 403 Forbidden, 503 Service Unavailable, etc.  
+You can use these response codes on monetized websites.
 
 ### Kotlin
 
-> This logo is not officially approved by the Kotlin Foundation.
-> (However, it has been consulted with them officially)
+> This logo is not officially endorsed by the Kotlin Foundation.  
+(But it has been officially verified.)
 
-## Thanks
+## Acknowledgements
 
-These logos are purely secondary creations.
-There is no intention to force their use as officers.
-We deeply appreciate those who allowed the creation of kawaii logos and gave their permission.
+These logos are for secondary use only.  
+We do not force you to use them as official.
+We would like to express our deepest gratitude to those who created the kawaii logos and gave us permission to use them.
 
 ## About logo requests
 
-- Please post in issues.
-  Priority will be given to those whose use has been officially permitted by the requested service.
-- Logos that have not been created by Sawaratsuki will not be added to this repository.
-  Therefore, Pull Requests that request the addition of logos will not be accepted, nor will merges be made.
+- Please submit to issues.  
+If we have received official permission to create a logo for the requested service, we will give priority to the creation of the logo.
+- We will not add any logos other than the ones created by Sawaratsuki in this repository.  
+  Therefore, we will not merge any additional logo requests by Pull Requests or other means.
 
 ## Logo removal requests
 
-If you need a logo in the repository removed, please contact [Sawaratsuki](https://x.com/sawaratsuki1004).
+If you need to remove a logo from the repository, please contact [Sawaratsuki](https://x.com/sawaratsuki1004).
