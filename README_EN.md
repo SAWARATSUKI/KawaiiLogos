@@ -7,12 +7,12 @@ Hello and good evening. This is the repository where the logos created by Sawara
 - [Japanese](./README.md)
 
 
-> [!WARNING].  
+> [!WARNING]
  The logo here is the logo created by Sawaratsuki. They are not created by the respective services or organizations.  
  Not all logos are officially used.
  Please be careful not to overdose on "kawaii".  
 
-> [!IMPORTANT].  
+> [!IMPORTANT]
  The contents of this repository may not be used for AI or anything else that Sawaratsuki deems equivalent.  
  Please be aware of this.
 
@@ -30,7 +30,7 @@ This repository is licensed under the following proprietary license.
 
 - You are free to use the logos for personal use only.  
 For example, sticker production is considered personal use.
-  > [!WARNING].  
+  > [!WARNING]
     Any work created using this logo may not be sold.
 - Commercial use of the logo is basically prohibited.  
 However, commercial use is allowed in the following cases
