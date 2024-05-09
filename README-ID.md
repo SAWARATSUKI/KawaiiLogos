@@ -25,8 +25,8 @@ Yang dimaksud dengan "**Resmi**" disini merujuk kepada individu atau organisasi 
 
 - Anda bebas menggunakannya untuk penggunaan pribadi.  
 Misalnya, produksi stiker dianggap sebagai penggunaan pribadi.
-  > [!WARNING]
-  > Produk apa pun yang dibuat menggunakan logo ini tidak boleh dijual.
+> [!WARNING]
+> Produk apa pun yang dibuat menggunakan logo ini tidak boleh dijual.
 - Penggunaan logo untuk tujuan komerisal pada dasarnya dilarang.  
 Namun, diperbolehkan dalam kondisi berikut.
   > - Jika Anda ingin menggunakan logo tersebut sebagai logo resmi untuk penggunaan komersial, atau jika Anda telah memperoleh izin resmi untuk seluruh ketentuan lisensi ini.  
