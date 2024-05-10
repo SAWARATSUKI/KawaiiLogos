@@ -6,12 +6,12 @@ Merhaba ve iyi akşamlar. Bu depo, Sawaratsuki tarafından oluşturulan logolar�
 
 - [Japonca](./README.md)
 
-> [!UYARI]
+> [!WARNING]
  Buradaki logo, Sawaratsuki tarafından yaratılan logodur. İlgili hizmetler veya organizasyonlar tarafından yaratılmamıştır.
  Tüm logolar resmi olarak kullanılmamaktadır.
  "Kawaii"ye fazla maruz kalmamaya dikkat edin.
 
-> [!ÖNEMLİ]
+> [!IMPORTANT]
  Bu depodaki içerikler Sawaratsuki'nin uygun gördüğü AI veya benzeri şeyler için kullanılamaz.
  Bu durumun farkında olun.
 
@@ -29,7 +29,7 @@ Bu depo aşağıdaki özel lisans altında lisanslanmıştır.
 
 - Logoları yalnızca kişisel kullanım için serbestçe kullanabilirsiniz.
 Örneğin, sticker üretimi kişisel kullanım olarak kabul edilir.
-  > [!UYARI]
+  > [!WARNING]
     Bu logo kullanılarak oluşturulan herhangi bir eser satılamaz.
 - Logonun ticari kullanımı temelde yasaktır.
 Ancak, aşağıdaki durumlarda ticari kullanıma izin verilir:
@@ -48,7 +48,7 @@ Yukarıdakilere ek olarak, logoları aşağıdaki lisanslara uygun olarak kullan
 
 ### Yanıt Kodları
 
-> 404 Bulunamadı, 403 Yasak, 503 Hizmet Kullanılamıyor gibi yanıt kodları.
+> Yanıt kodları, 404 Bulunamadı, 403 Yasak, 503 Hizmet Kullanılamıyor gibi.
 Bu yanıt kodlarını gelir elde edilen web sitelerinde kullanabilirsiniz.
 
 ### Kotlin
