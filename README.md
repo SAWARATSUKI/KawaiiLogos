@@ -1,6 +1,6 @@
 # KawaiiLogos
 
-[简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md)
+[简体中文 README](/README-zhHans.md) | [繁體中文 README](/README-zhHant.md) | [Indonesian README](/README-ID.md)
 
 こんにちは、こんばんは。このリポジトリはさわらつきが作成したロゴがアップロードされているリポジトリです。
 
