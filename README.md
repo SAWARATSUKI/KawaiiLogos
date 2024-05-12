@@ -7,7 +7,7 @@
 ## 言語 / Languages
 
 - [English](./README_EN.md)
-- [한국어](./README_kr.md)
+- [한국어](./README-kr.md)
 
 > [!WARNING]  
  ここにあるロゴはさわらつきが作成したロゴです。各サービス、団体が作成したものではありません。  
