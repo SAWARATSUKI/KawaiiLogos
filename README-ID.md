@@ -1,5 +1,7 @@
 # KawaiiLogos
 
+[日本語 README](./README.md) | [English README](/README_EN.md) | [简体中文 README](/README-zhHans.md)
+
 Hai semuanya. Repositori ini adalah tempat di mana logo-logo yang dibuat oleh Sawaratsuki diunggah.
 
 > [!WARNING]
