@@ -1,0 +1,91 @@
+name: リクエスト
+description: ロゴの追加依頼
+title: "[Request] "
+labels: "request"
+assignees:
+  - SAWARATSUKI
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ロゴ追加に関する依頼がある場合は、以下の内容を**よく読んでからテンプレートに従って**Issueを作成してください。
+        - サービスのロゴの追加を希望する場合、許可が必要な場合があります。そのため許可が得られない場合は追加を見送ることがあります。
+        - リクエストしたサービスの公式からロゴ制作の許可を頂いている場合優先的にお作りいたします。
+        - ロゴの追加には時間がかかる場合があります。ご了承ください。
+
+
+  - type: checkboxes
+    id: duplicate-check
+    attributes:
+      label: 重複チェック
+      description: 他のIssueと内容が重複していないことを確認してください。
+      options:
+        - label: 確認しました
+          required: true
+
+  - type: dropdown
+    id: logo-category
+    attributes:
+      label: ロゴカテゴリ
+      description: 追加を希望するロゴのカテゴリ (例:React→service, レスポンスコードなど→original, その他判断に迷う場合→unknown)
+      options:
+          - service
+          - original
+          - unknown
+    validations:
+      required: true
+
+  - type: input
+    id: logo-name
+    attributes:
+      label: ロゴの名称
+      description: 追加を希望するサービスの名称
+      placeholder: 例) GitHub , 404 NotFound
+    validations:
+      required: true
+
+  - type: input
+    id: logo-name-ja
+    attributes:
+      label: ロゴの名称(日本語)
+      description: 追加を希望するサービスの日本語での読み方
+      placeholder: 例) ギットハブ  , お探しのページが見つかりません
+    validations:
+      required: true
+  
+  - type: input
+    id: service-url
+    attributes:
+      label: サービスのURL
+      description: 追加を希望するサービスのURL
+      placeholder: 例) https://github.com
+    validations:
+      required: false
+
+  - type: dropdown
+    id: permission
+    attributes:
+      label: 許可の有無
+      description: サービスの公式からロゴ制作の許可を得ましたか？
+      options:
+          - "Yes"
+          - "No"
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: 連絡先
+      description: 許可を得ている場合は、あなたの連絡先(SNSのURL等)を記載してください。
+      placeholder: 例) https://x.com/sawaratsuki1004
+    validations:
+      required: false
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: コメント・補足
+      description: 画像がある場合はこちらに添付してください
+    validations:
+      required: false
