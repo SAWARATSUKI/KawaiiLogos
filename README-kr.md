@@ -7,7 +7,7 @@
 ## 언어 / Languages
 
 - [English](./README_EN.md)
-- [한국어](./README_kr.md)
+- [한국어](./README-kr.md)
 
 > [!WARNING]  
 여기 있는 로고는 사와라츠키가 제작한 로고입니다. 각 서비스 혹은 단체가 제작한 것이 아닙니다.
