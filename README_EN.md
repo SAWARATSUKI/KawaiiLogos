@@ -1,6 +1,6 @@
 # KawaiiLogos
 
-[日本語 README](./README.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md)
+[日本語 README](./README.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md)
 
 Hello and good evening. This is the repository where the logos created by Sawaratsuki are uploaded.
 
