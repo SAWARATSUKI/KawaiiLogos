@@ -1,7 +1,7 @@
 name: リクエスト
 description: ロゴの追加依頼
 title: "[Request] "
-labels: ["request"]
+labels: "request"
 assignees:
   - SAWARATSUKI
 body:
@@ -10,6 +10,7 @@ body:
       value: |
         ロゴ追加に関する依頼がある場合は、以下の内容を**よく読んでからテンプレートに従って**Issueを作成してください。
         - サービスのロゴの追加を希望する場合、許可が必要な場合があります。そのため許可が得られない場合は追加を見送ることがあります。
+        - リクエストしたサービスの公式からロゴ制作の許可を頂いている場合優先的にお作りいたします。
         - ロゴの追加には時間がかかる場合があります。ご了承ください。
 
 
@@ -58,6 +59,26 @@ body:
       label: サービスのURL
       description: 追加を希望するサービスのURL
       placeholder: 例) https://github.com
+    validations:
+      required: false
+
+  - type: dropdown
+    id: permission
+    attributes:
+      label: 許可の有無
+      description: サービスの公式からロゴ制作の許可を得ましたか？
+      options:
+          - "Yes"
+          - "No"
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: 連絡先
+      description: 許可を得ている場合は、あなたの連絡先(SNSのURL等)を記載してください。
+      placeholder: 例) https://x.com/sawaratsuki1004
     validations:
       required: false
 

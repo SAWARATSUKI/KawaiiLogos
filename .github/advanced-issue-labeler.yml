@@ -10,3 +10,8 @@ policy:
             keys: ["original"]
           - name: "unknown"
             keys: ["None", "unknown"]
+      - id: ["permission"]
+        block-list: ["None", "No"]
+        label:
+          - name: "permitted"
+            keys: ["Yes"]
