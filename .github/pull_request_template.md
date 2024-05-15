@@ -11,7 +11,7 @@
 
 ## Checklist
 
-- [ ] I have tested the changes/updates before submitting this pull request.
+- [ ] I have made sure that the changes/updates are working before submitting this pull request.
 
 ## Additional Notes
 <!-- Add any additional notes or context about the changes here. -->
