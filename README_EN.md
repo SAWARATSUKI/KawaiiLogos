@@ -17,8 +17,8 @@ Hello and good evening. This is the repository where the logos created by Sawara
 ## License
 
 > [!IMPORTANT]
-> The license below has been translated and the latest version is [LICENCE.md](./LICENSE.md).
-> If there is a difference between the translated text and LICENSE.md, LICENSE.md will be applied.
+ The license below has been translated and the latest version is [LICENCE.md](./LICENSE.md).
+ If there is a difference between the translated text and LICENSE.md, LICENSE.md will be applied.
 
 This repository is licensed under the following proprietary license.
 
