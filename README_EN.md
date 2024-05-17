@@ -28,8 +28,8 @@ This repository is licensed under the following proprietary license.
 
 - You are free to use the logos for personal use only.  
 For example, sticker production is considered personal use.
-  > [!WARNING]
-    Any work created using this logo may not be sold.
+> [!WARNING]
+ Any work created using this logo may not be sold.
 - Commercial use of the logo is basically prohibited.  
 However, commercial use is allowed in the following cases
   - If you are using the logo as the official logo of the logo you wish to use for commercial purposes, or if you have obtained permission from the official for all the terms of this license.  
