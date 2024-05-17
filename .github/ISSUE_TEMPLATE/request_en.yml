@@ -1,0 +1,90 @@
+name: Logo Request
+description: Suggest logo addition
+title: "[Request] "
+labels: "request"
+assignees:
+  - SAWARATSUKI
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you are proposing to add a logo, **please read the following information carefully and then follow the template** to prepare your Issue.
+        - If you wish to add a service logo, permission may be required. If permission cannot be obtained, the request may be declined.
+        - If you have permission from the official service to create the logo, your request may be prioritized.
+        - Please note that it may take some time to add the logo. Thank you for your understanding.
+
+  - type: checkboxes
+    id: duplicate-check
+    attributes:
+      label: Duplicate Check
+      description: Please ensure that your request is not a duplicate of another Issue.
+      options:
+        - label: Checked
+          required: true
+
+  - type: dropdown
+    id: logo-category
+    attributes:
+      label: Logo Category
+      description: The category of the logo you wish to add (e.g., React → Service, response codes → Original, if unsure → Unknown)
+      options:
+          - Service
+          - Original
+          - Unknown
+    validations:
+      required: true
+
+  - type: input
+    id: logo-name
+    attributes:
+      label: Logo Name
+      description: The name of the service for which you wish to add the logo
+      placeholder: e.g., GitHub, 404 NotFound
+    validations:
+      required: true
+
+  - type: input
+    id: logo-name-ja
+    attributes:
+      label: Logo Name (Japanese)
+      description: The Japanese reading of the service for which you wish to add the logo
+      placeholder: e.g., ギットハブ,  お探しのページが見つかりません
+    validations:
+      required: true
+  
+  - type: input
+    id: service-url
+    attributes:
+      label: Service URL
+      description: The URL of the service for which you wish to add the logo
+      placeholder: e.g., https://github.com
+    validations:
+      required: false
+
+  - type: dropdown
+    id: permission
+    attributes:
+      label: Permission
+      description: Do you have permission from the officials to create the logo?
+      options:
+          - "Yes"
+          - "No"
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Information
+      description: If you have permission, please provide your contact information (e.g., URL of your social media account)
+      placeholder: e.g., https://x.com/sawaratsuki1004
+    validations:
+      required: false
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: Comments or Additional Information
+      description: If you have any images, please attach them here.
+    validations:
+      required: false
