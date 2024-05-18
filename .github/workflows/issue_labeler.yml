@@ -15,7 +15,7 @@ jobs:
 
     strategy:
       matrix:
-        template: [ request.yml ]
+        template: [request.yml, request_en.yml]
 
     steps:
       - uses: actions/checkout@v3
