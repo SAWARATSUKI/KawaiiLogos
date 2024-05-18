@@ -1,13 +1,13 @@
 policy:
-  - template: ["request.yml"]
+  - template: ["request.yml", "request_en.yml"]
     section:
       - id: ["logo-category"]
         block-list: []
         label:
           - name: "service"
-            keys: ["service"]
+            keys: ["service", "Service"]
           - name: "original"
-            keys: ["original"]
+            keys: ["original", "Original"]
           - name: "unknown"
             keys: ["None", "unknown"]
       - id: ["permission"]

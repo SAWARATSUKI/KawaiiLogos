@@ -1,6 +1,6 @@
 # KawaiiLogolar
 
-[日本語 README](./README.md) | [English README](/README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md)
+[日本語 README](./README.md) | [English README](/README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [한국어 README](/README-kr.md)
 
 Merhaba ve iyi akşamlar. Bu depo, Sawaratsuki tarafından oluşturulan logoların yüklendiği yerdir.
 
