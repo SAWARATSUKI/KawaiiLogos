@@ -31,7 +31,7 @@ Bu depo aşağıdaki özel lisans altında lisanslanmıştır.
 
 - Logoları yalnızca kişisel kullanım için serbestçe kullanabilirsiniz.
 Örneğin, sticker üretimi kişisel kullanım olarak kabul edilir.
-  > [!WARNING]
+> [!WARNING]
     Bu logo kullanılarak oluşturulan herhangi bir eser satılamaz.
 - Logonun ticari kullanımı temelde yasaktır.
 Ancak, aşağıdaki durumlarda ticari kullanıma izin verilir:
