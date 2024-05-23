@@ -1,6 +1,6 @@
 # KawaiiLogolar
 
-[日本語 README](./README.md) | [English README](/README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [한국어 README](/README-kr.md)
+[日本語 README](./README.md) | [English README](/README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md)
 
 Merhaba ve iyi akşamlar. Bu depo, Sawaratsuki tarafından oluşturulan logoların yüklendiği yerdir.
 
@@ -31,7 +31,7 @@ Bu depo aşağıdaki özel lisans altında lisanslanmıştır.
 
 - Logoları yalnızca kişisel kullanım için serbestçe kullanabilirsiniz.
 Örneğin, sticker üretimi kişisel kullanım olarak kabul edilir.
-  > [!WARNING]
+> [!WARNING]
     Bu logo kullanılarak oluşturulan herhangi bir eser satılamaz.
 - Logonun ticari kullanımı temelde yasaktır.
 Ancak, aşağıdaki durumlarda ticari kullanıma izin verilir:
