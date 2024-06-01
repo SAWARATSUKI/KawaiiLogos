@@ -1,5 +1,7 @@
 # KawaiiLogos
 
+[日本語 README](/README.md) | [English README](docs/README_EN.md) | [简体中文 README](docs/README-zhHans.md) | [Indonesian README](docs/README-ID.md) | [Türkçe README](docs/README-tr.md) | [한국어 README](docs/README-kr.md) | [Français README](docs/README-fr.md) | [Español README](docs/README_es.md)
+
 大家好！這個倉庫是用於上傳由 Sawaratsuki 創建的 Logo 的倉庫。
 
 > [!WARNING]

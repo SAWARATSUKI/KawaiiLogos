@@ -1,6 +1,6 @@
 # KawaiiLogos
 
-[日本語 README](./README.md) | [English README](./README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [README Français](/README-fr.md)
+[日本語 README](/README.md) | [English README](docs/README_EN.md) | [简体中文 README](docs/README-zhHans.md) | [Indonesian README](docs/README-ID.md) | [Türkçe README](docs/README-tr.md) | [Français README](docs/README-fr.md) | [Español README](docs/README_es.md)
 
 안녕하세요. 이 리포지토리는 사와라츠키(さわらつき)가 제작한 로고를 업로드한 리포지토리입니다.
 

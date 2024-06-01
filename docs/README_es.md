@@ -2,7 +2,7 @@
 
 Hola y buenas noches. Este es el repositorio donde los logos creados por Sawaratsuki son subidos.
 
-[日本語 README](./README.md) | [English README](./README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md)
+[日本語 README](/README.md) | [English README](docs/README_EN.md) | [简体中文 README](docs/README-zhHans.md) | [Indonesian README](docs/README-ID.md) | [Türkçe README](docs/README-tr.md) | [한국어 README](docs/README-kr.md) | [Français README](docs/README-fr.md)
 
 
 > [!WARNING]
