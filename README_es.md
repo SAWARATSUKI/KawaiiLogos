@@ -2,23 +2,21 @@
 
 Hola y buenas noches. Este es el repositorio donde los logos creados por Sawaratsuki son subidos.
 
-## Idiomas
+[日本語 README](./README.md) | [English README](./README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md)
 
-- [Japones](./README.md)
-- [Inglés](./README_EN.md)
 
-> [!ATENCIÓN]
+> [!WARNING]
  Los logos que aquí están han sido creados por Sawaratsuki. No fueron creados por sus respectivas organizaciones o servicios.
  No todos los logos son usados de manera oficial.
  Por favor tenga cuidado de no tener una sobredosis de lo "kawaii".
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
  Los contenidos de este repositorio no deben ser usados para IA o cualquier otra cosa que Sawaratsuki considere equivalente. 
- Por favor tenga en cuenta esto
+ Por favor tenga en cuenta esto.
 
 ## Licencia
 
-Este repositorio esta licenciado bajo la siguiente licencia propietaria
+Este repositorio esta licenciado bajo la siguiente licencia propietaria.
 
 ### Si quieres usar un logo, por favor lee la siguiente parte
 
