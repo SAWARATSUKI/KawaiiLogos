@@ -32,10 +32,10 @@ Na przykład, produkcja naklejek jest uważana za użytek osobisty.
  Żadna praca stworzona przy użyciu tego logo nie może być sprzedawana.
 - Komercyjne wykorzystanie logo jest zasadniczo zabronione.  
 Użycie komercyjne jest jednak dozwolone w następujących przypadkach:
-  - Jeśli logo jest używane jako oficjalne logo, loga, którego chcesz używać do celów komercyjnych, lub jeśli uzyskałeś zgodę od urzędnika na wszystkie warunki niniejszej licencji.  
+  - Jeśli logo jest używane jako oficjalne logo, logo, którego chcesz używać do celów komercyjnych, lub jeśli uzyskałeś zgodę od urzędnika na wszystkie warunki niniejszej licencji.  
   - Jeśli masz pozwolenie na używanie logo zgodnie z poniższą "Licencją na każde logo”.
   - Jeśli zezwala na to odpowiedni urzędnik.
-  - Jeśli „Licencja i uwagi do każdego logo” stanowi, że logo może być używane do celów komercyjnych.
+  - Jeśli "Licencja i uwagi do każdego logo” stanowi, że logo może być używane do celów komercyjnych.
 - Nie musisz wspominać o mnie ani o tym repozytorium w swoich pracach wykorzystujących logo z tego repozytorium, ale byłoby miło, gdybyś mógł.  
   Będzie to motywujące dla Sawaratsuki, jeśli wyraźnie to zaznaczysz.
 - W żadnym wypadku Sawaratsuki nie ponosi odpowiedzialności za jakiekolwiek szkody spowodowane przez zawartość tego repozytorium.
@@ -64,7 +64,7 @@ Chcielibyśmy wyrazić naszą najgłębszą wdzięczność tym, którzy stworzyl
 ## Prośby o logo
 
 - Prosimy o zgłaszanie próśb jako issues.  
-Jeśli otrzymamy oficjalne pozwolenie na stworzenie logo dla żądanej usługi, nadamy priorytet tworzeniu logo.
+Jeśli otrzymamy oficjalne pozwolenie na stworzenie logo dla żądanej usługi, nadamy priorytet tworzeniu owego logo.
 - Nie będziemy dodawać do tego repozytorium żadnych logo innych niż te stworzone przez Sawaratsuki.  
   W związku z tym nie będziemy łączyć (merge) żadnych dodatkowych próśb o logo przez Pull Requests lub w inny sposób.
 
