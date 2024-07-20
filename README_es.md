@@ -27,8 +27,8 @@ Este repositorio esta licenciado bajo la siguiente licencia propietaria.
 
 - Eres libre de usar los logos solo para uso personal.
 Por ejemplo, la producción de stickers se considera uso personal.
-  > [!ATENCIÓN]
-    Cualquier trabajo creado usando estos logos no debe ser vendido.
+> [!WARNING]
+  Cualquier trabajo creado usando estos logos no debe ser vendido.
 - El uso comercial de los logos está prohibido.
 Sin embargo, el uso comercial está permitido en los siguientes casos
   - Si estás usando el logo como el logo oficial del logo que quieres usar para propósitos comerciales, o si has obtenido permiso del logo oficial para todos los terminos de esta licencia.
