@@ -13,6 +13,8 @@
  このリポジトリの内容物をAIもしくはそれに同等するとさわらつきが判断したものに使用することはできません。  
  予めご了承ください。
 
+<a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## ライセンス
 
 このリポジトリは以下の独自ライセンスが付与されます。
