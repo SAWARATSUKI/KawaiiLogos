@@ -13,6 +13,8 @@ Hola y buenas noches. Este es el repositorio donde los logos creados por Sawarat
  Los contenidos de este repositorio no deben ser usados para IA o cualquier otra cosa que Sawaratsuki considere equivalente.
  Por favor tenga en cuenta esto.
 
+<a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Licencia
 
 Este repositorio esta licenciado bajo la siguiente licencia propietaria.

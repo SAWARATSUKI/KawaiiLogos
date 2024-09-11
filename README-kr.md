@@ -13,6 +13,8 @@ kawaii의 과다섭취에 주의하세요.
 이 리포지토리의 콘텐츠를 AI 혹은 그와 같다고 사와라츠키가 판단한 것에는 사용할 수 없습니다.
 미리 양해 부탁드립니다.
 
+<a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## 라이선스
 
 이 리포지토리는 다음과 같은 자체 라이선스가 부여됩니다.
