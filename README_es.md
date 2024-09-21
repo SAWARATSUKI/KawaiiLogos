@@ -2,7 +2,7 @@
 
 <div align="center">
  
-[日本語](./README.md) | [English](./README_EN.md) | [简体中文](/README-zhHans.md) | [Indonesian](/README-ID.md) | [Türkçe](/README-tr.md) | [한국어](/README-kr.md) | [Français](/README-fr.md) | **Español**
+[日本語](./README.md) | [English](./README_EN.md) | [简体中文](/README-zhHans.md) | [繁体中文](/README-zhHant.md) | [Indonesian](/README-ID.md) | [Türkçe](/README-tr.md) | [한국어](/README-kr.md) | [Français](/README-fr.md) | **Español**
 
 </div>
 
