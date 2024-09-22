@@ -17,6 +17,8 @@ Hai semuanya. Repositori ini adalah tempat di mana logo-logo yang dibuat oleh Sa
 > Isi repositori ini **tidak boleh** digunakan untuk AI atau apa pun yang dianggap **serupa** oleh Sawaratsuki.  
 > Tolong dicatat.
 
+<a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Lisensi
 
 Repositori ini dilisensikan berdasarkan lisensi kepemilikan berikut.
@@ -31,8 +33,10 @@ Yang dimaksud dengan "**Resmi**" disini merujuk kepada individu atau organisasi 
 
 - Anda bebas menggunakannya untuk penggunaan pribadi.  
 Misalnya, produksi stiker dianggap sebagai penggunaan pribadi.
+
 > [!WARNING]
 > Produk apa pun yang dibuat menggunakan logo ini tidak boleh dijual.
+
 - Penggunaan logo untuk tujuan komerisal pada dasarnya dilarang.  
 Namun, diperbolehkan dalam kondisi berikut.
   > - Jika Anda ingin menggunakan logo tersebut sebagai logo resmi untuk penggunaan komersial, atau jika Anda telah memperoleh izin resmi untuk seluruh ketentuan lisensi ini.  

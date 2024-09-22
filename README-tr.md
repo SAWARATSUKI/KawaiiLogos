@@ -8,10 +8,6 @@
 
 Merhaba ve iyi akşamlar. Bu depo, Sawaratsuki tarafından oluşturulan logoların yüklendiği yerdir.
 
-## Diller
-
-- [Japonca](./README.md)
-
 > [!WARNING]
  Buradaki logo, Sawaratsuki tarafından yaratılan logodur. İlgili hizmetler veya organizasyonlar tarafından yaratılmamıştır.
  Tüm logolar resmi olarak kullanılmamaktadır.
@@ -21,11 +17,13 @@ Merhaba ve iyi akşamlar. Bu depo, Sawaratsuki tarafından oluşturulan logolar�
  Bu depodaki içerikler Sawaratsuki'nin uygun gördüğü AI veya benzeri şeyler için kullanılamaz.
  Bu durumun farkında olun.
 
+ <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Lisans
 
 Bu depo aşağıdaki özel lisans altında lisanslanmıştır.
 
-### Logoyu kullanmak istiyorsanız, bu bölümü okuyun.
+### Logoyu kullanmak istiyorsanız, bu bölümü okuyun
 
 ### Tanımlar
 
@@ -35,8 +33,10 @@ Bu depo aşağıdaki özel lisans altında lisanslanmıştır.
 
 - Logoları yalnızca kişisel kullanım için serbestçe kullanabilirsiniz.
 Örneğin, sticker üretimi kişisel kullanım olarak kabul edilir.
+
 > [!WARNING]
     Bu logo kullanılarak oluşturulan herhangi bir eser satılamaz.
+
 - Logonun ticari kullanımı temelde yasaktır.
 Ancak, aşağıdaki durumlarda ticari kullanıma izin verilir:
   - Ticari amaçlar için kullanmak istediğiniz logo olarak resmi logoyu kullanıyorsanız veya bu lisansın tüm şartları için resmi izin almışsanız.

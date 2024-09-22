@@ -17,6 +17,8 @@
  未經 Sawaratsuki 許可，不得將此倉庫的內容用於 AI 或類似用途。
  敬請諒解。
 
+ <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## 許可證
 
 此倉庫遵循以下自訂許可證：
@@ -30,13 +32,17 @@
 ### 所有條款
 
 - 僅供個人使用。例如，製作貼紙屬於個人使用。
+
 > [!WARNING]
 > 使用此 Logo 製作的商品不得出售。
+
 - 通常情況下，不得用於商業目的。但是，以下情況允許商業使用：
+>
 > - 將 Logo 用於官方用途或獲得官方許可使用此許可證的所有條款
 > - 符合“每個 Logo 的許可證”中允許的條件
 > - 獲得官方許可
 > - “每個 Logo 的許可證和注意事項”中明確允許商業使用
+>
 - 您無需在使用此倉庫的 Logo 製作的作品中註明我或此倉庫，但如果您註明，將有助於激勵 Sawaratsuki。
 - Sawaratsuki 對因使用此倉庫的內容而造成的任何損失概不負責。
 
