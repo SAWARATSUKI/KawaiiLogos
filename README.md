@@ -1,6 +1,6 @@
 # KawaiiLogos
 
-[English README](./README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md) | [README Español](/README-es.md) | [README हिंदी](/README_HN.md)
+[English README](./README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md) | [README Español](/README-es.md) | [polskie README](/README-PL.md) | [README हिंदी](/README_HN.md)
 
 こんにちは、こんばんは。このリポジトリはさわらつきが作成したロゴがアップロードされているリポジトリです。
 
@@ -12,6 +12,8 @@
 > [!IMPORTANT]  
  このリポジトリの内容物をAIもしくはそれに同等するとさわらつきが判断したものに使用することはできません。  
  予めご了承ください。
+
+<a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## ライセンス
 
