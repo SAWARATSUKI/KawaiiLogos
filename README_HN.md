@@ -1,6 +1,6 @@
 ## KawaiiLogos
 
-[English README](./README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md) | [README Español](/README-es.md)
+[English README](./README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md) | [README Español](/README-es.md)| [polskie README](/README-PL.md) | 
 
 नमस्ते, शुभ संध्या। यह रिपोजिटरी सवारात्सुकी द्वारा बनाए गए लोगो को अपलोड करने के लिए बनाई गई है।
 
