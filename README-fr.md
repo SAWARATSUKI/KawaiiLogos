@@ -1,24 +1,25 @@
 # KawaiiLogos
 
-[日本語 README](./README.md) | [English README](/README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Español](/README-es.md)
+[日本語 README](./README.md) | [English README](/README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Español](/README-es.md) | [polskie README](/README-PL.md) | [README हिंदी](/README_HN.md)
 
 Bonjour et bonsoir. Ceci est le dépôt où les logos créés par Sawaratsuki sont téléchargés.
-
 
 > [!WARNING]
  Le logo ici est le logo créé par Sawaratsuki. Ils ne sont pas créés par les services ou organisations respectifs.  
  Tous les logos ne sont pas officiellement utilisés.
- Veillez à ne pas faire une overdose de « kawaii ».   
+ Veillez à ne pas faire une overdose de « kawaii ».
 
 > [!IMPORTANT]
  Le contenu de ce dépôt ne peut pas être utilisé pour l'IA ou toute autre chose que Sawaratsuki juge équivalente.  
  Veuillez en tenir compte.
 
+ <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Licence
 
 Ce dépôt est placé sous la licence propriétaire suivante.
 
-### Si vous souhaitez utiliser le logo, veuillez lire cette section.
+### Si vous souhaitez utiliser le logo, veuillez lire cette section
 
 ### Définitions
 
@@ -28,8 +29,10 @@ Le terme « officiel » désigne ici la personne ou l'organisation qui détient 
 
 - Vous êtes libre d'utiliser les logos à des fins personnelles uniquement.  
 Par exemple, la production d'autocollants est considérée comme un usage personnel.
+
 > [!WARNING]
  Toute œuvre créée à l'aide de ce logo ne peut être vendue.
+
 - L'utilisation commerciale du logo est fondamentalement interdite.  
 Toutefois, l'utilisation commerciale est autorisée dans les cas suivants
   - Si vous utilisez le logo comme logo officiel du logo que vous souhaitez utiliser à des fins commerciales, ou si vous avez obtenu l'autorisation de l'officiel pour toutes les conditions de cette licence.  
@@ -43,7 +46,7 @@ Toutefois, l'utilisation commerciale est autorisée dans les cas suivants
 ## Licences et notes pour chaque logo
 
 Cette section est une licence qui s'applique à chaque logo.  
-En plus de ce qui précède, veuillez utiliser les logos conformément aux licences suivantes.   
+En plus de ce qui précède, veuillez utiliser les logos conformément aux licences suivantes.
 
 ### Codes de réponse
 

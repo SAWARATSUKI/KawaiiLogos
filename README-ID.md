@@ -1,6 +1,6 @@
 # KawaiiLogos
 
-[日本語 README](./README.md) | [English README](/README_EN.md) | [简体中文 README](/README-zhHans.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md) | [README Español](/README-es.md)
+[日本語 README](./README.md) | [English README](/README_EN.md) | [简体中文 README](/README-zhHans.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md) | [README Español](/README-es.md) | [polskie README](/README-PL.md) | [README हिंदी](/README_HN.md)
 
 Hai semuanya. Repositori ini adalah tempat di mana logo-logo yang dibuat oleh Sawaratsuki diunggah.
 
@@ -12,6 +12,8 @@ Hai semuanya. Repositori ini adalah tempat di mana logo-logo yang dibuat oleh Sa
 > [!IMPORTANT]
 > Isi repositori ini **tidak boleh** digunakan untuk AI atau apa pun yang dianggap **serupa** oleh Sawaratsuki.  
 > Tolong dicatat.
+
+<a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## Lisensi
 
@@ -27,8 +29,10 @@ Yang dimaksud dengan "**Resmi**" disini merujuk kepada individu atau organisasi 
 
 - Anda bebas menggunakannya untuk penggunaan pribadi.  
 Misalnya, produksi stiker dianggap sebagai penggunaan pribadi.
+
 > [!WARNING]
 > Produk apa pun yang dibuat menggunakan logo ini tidak boleh dijual.
+
 - Penggunaan logo untuk tujuan komerisal pada dasarnya dilarang.  
 Namun, diperbolehkan dalam kondisi berikut.
   > - Jika Anda ingin menggunakan logo tersebut sebagai logo resmi untuk penggunaan komersial, atau jika Anda telah memperoleh izin resmi untuk seluruh ketentuan lisensi ini.  

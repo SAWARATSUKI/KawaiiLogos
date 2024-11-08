@@ -2,7 +2,7 @@
 
 Hola y buenas noches. Este es el repositorio donde los logos creados por Sawaratsuki son subidos.
 
-[日本語 README](./README.md) | [English README](./README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md)
+[日本語 README](./README.md) | [English README](./README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md) | [polskie README](/README-PL.md)| [README हिंदी](/README_HN.md)
 
 > [!WARNING]
  Los logos que aquí están han sido creados por Sawaratsuki. No fueron creados por sus respectivas organizaciones o servicios.
@@ -12,6 +12,8 @@ Hola y buenas noches. Este es el repositorio donde los logos creados por Sawarat
 > [!IMPORTANT]
  Los contenidos de este repositorio no deben ser usados para IA o cualquier otra cosa que Sawaratsuki considere equivalente.
  Por favor tenga en cuenta esto.
+
+<a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## Licencia
 

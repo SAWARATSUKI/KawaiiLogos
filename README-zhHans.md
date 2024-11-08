@@ -1,6 +1,6 @@
 # KawaiiLogos
 
-[日本語 README](./README.md) | [English README](/README_EN.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md) | [README Español](/README-es.md)
+[日本語 README](./README.md) | [English README](/README_EN.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md) | [README Español](/README-es.md) | [polskie README](/README-PL.md) | [README हिंदी](/README_HN.md)
 
 大家好！这个仓库是用于上传由 Sawaratsuki 创建的 Logo 的仓库。
 
@@ -12,6 +12,8 @@
 > [!IMPORTANT]
  未经 Sawaratsuki 许可，不得将此仓库的内容用于 AI 或类似用途。
  敬请谅解。
+
+ <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## 许可证
 
@@ -26,13 +28,17 @@
 ### 所有条款
 
 - 仅供个人使用。例如，制作贴纸属于个人使用。
+
 > [!WARNING]
 > 使用此 Logo 制作的商品不得出售。
+
 - 通常情况下，不得用于商业目的。但是，以下情况允许商业使用：
+>
 > - 将 Logo 用于官方用途或获得官方许可使用此许可证的所有条款
 > - 符合“每个 Logo 的许可证”中允许的条件
 > - 获得官方许可
 > - “每个 Logo 的许可证和注意事项”中明确允许商业使用
+>
 - 您无需在使用此仓库的 Logo 制作的作品中注明我或此仓库，但如果您注明，将有助于激励 Sawaratsuki。
 - Sawaratsuki 对因使用此仓库的内容而造成的任何损失概不负责。
 
