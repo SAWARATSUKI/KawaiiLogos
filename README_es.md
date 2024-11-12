@@ -8,6 +8,7 @@
 
 Hola y buenas noches. Este es el repositorio donde los logos creados por Sawaratsuki son subidos.
 
+
 > [!WARNING]
  Los logos que aquí están han sido creados por Sawaratsuki. No fueron creados por sus respectivas organizaciones o servicios.
  No todos los logos son usados de manera oficial.
