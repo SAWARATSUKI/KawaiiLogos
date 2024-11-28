@@ -1,6 +1,10 @@
 # KawaiiLogos
 
-[日本語 README](./README.md) | [English README](/README_EN.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Español](/README-es.md) | [polskie README](/README-PL.md) | [README हिंदी](/README_HN.md)
+<div align="center">
+ 
+[日本語](./README.md) | [English](./README_EN.md) | [简体中文](/README-zhHans.md) | [繁体中文](/README-zhHant.md) | [Indonesian](/README-ID.md) | [Türkçe](/README-tr.md) | [한국어](/README-kr.md) | **Français** | [Español](/README-es.md)
+
+</div>
 
 Bonjour et bonsoir. Ceci est le dépôt où les logos créés par Sawaratsuki sont téléchargés.
 

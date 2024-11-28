@@ -1,6 +1,10 @@
 # KawaiiLogos
 
-[日本語 README](./README.md) | [English README](/README_EN.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md) | [README Español](/README-es.md) | [polskie README](/README-PL.md) | [README हिंदी](/README_HN.md)
+<div align="center">
+
+[日本語](./README.md) | [English](./README_EN.md) | **简体中文** | [繁体中文](/README-zhHant.md) | [Indonesian](/README-ID.md) | [Türkçe](/README-tr.md) | [한국어](/README-kr.md) | [Français](/README-fr.md) | [Español](/README-es.md)
+
+</div>
 
 大家好！这个仓库是用于上传由 Sawaratsuki 创建的 Logo 的仓库。
 
