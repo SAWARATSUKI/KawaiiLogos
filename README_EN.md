@@ -5,15 +5,15 @@
 Hello and good evening. This is the repository where the logos created by Sawaratsuki are uploaded.
 
 > [!WARNING]
- The logo here is the logo created by Sawaratsuki. They are not created by the respective services or organizations.  
- Not all logos are officially used.
- Please be careful not to overdose on "kawaii".  
+> The logo here is the logo created by Sawaratsuki. They are not created by the respective services or organizations.  
+>  Not all logos are officially used.
+> Please be careful not to overdose on "kawaii".
 
 > [!IMPORTANT]
- The contents of this repository may not be used for AI or anything else that Sawaratsuki deems equivalent.  
- Please be aware of this.
+> The contents of this repository may not be used for AI or anything else that Sawaratsuki deems equivalent.  
+>  Please be aware of this.
 
- <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## License
 
@@ -28,14 +28,14 @@ This repository is licensed under the following proprietary license.
 ### All terms
 
 - You are free to use the logos for personal use only.  
-For example, sticker production is considered personal use.
+  For example, sticker production is considered personal use.
 
 > [!WARNING]
- Any work created using this logo may not be sold.
+> Any work created using this logo may not be sold.
 
 - Commercial use of the logo is basically prohibited.  
-However, commercial use is allowed in the following cases
-  - If you are using the logo as the official logo of the logo you wish to use for commercial purposes, or if you have obtained permission from the official for all the terms of this license.  
+  However, commercial use is allowed in the following cases
+  - If you are using the logo as the official logo of the logo you wish to use for commercial purposes, or if you have obtained permission from the official for all the terms of this license.
   - If you are permitted to use the logo in accordance with the "License of each logo" below
   - If permitted by the respective official.
   - If the "License and Notes for each logo" states that the logo may be used for commercial purposes.
@@ -46,17 +46,22 @@ However, commercial use is allowed in the following cases
 ## Licenses and notes for each logo
 
 This section is a license that applies to each logo.  
-In addition to the above, please use the logos in accordance with the following licenses.  
+In addition to the above, please use the logos in accordance with the following licenses.
 
 ### Response Codes
 
 > Response codes such as 404 NotFound, 403 Forbidden, 503 Service Unavailable, etc.  
-You can use these response codes on monetized websites.
+> You can use these response codes on monetized websites.
 
 ### Kotlin
 
 > This logo is not officially endorsed by the Kotlin Foundation.  
-(But it has been officially verified.)
+> (But it has been officially verified.)
+
+### GitHub
+
+> This logo has not been officially approved by GitHub.  
+> (However, GitHub Japan has received and confirmed the notification regarding its publication.)
 
 ## Acknowledgements
 
@@ -67,7 +72,7 @@ We would like to express our deepest gratitude to those who created the kawaii l
 ## About logo requests
 
 - Please submit to issues.  
-If we have received official permission to create a logo for the requested service, we will give priority to the creation of the logo.
+  If we have received official permission to create a logo for the requested service, we will give priority to the creation of the logo.
 - We will not add any logos other than the ones created by Sawaratsuki in this repository.  
   Therefore, we will not merge any additional logo requests by Pull Requests or other means.
 
