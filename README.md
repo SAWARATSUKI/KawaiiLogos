@@ -4,7 +4,7 @@
  
 <a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-**日本語** | [English](./README_EN.md) | [简体中文](/README-zhHans.md) | [繁体中文](/README-zhHant.md) | [Indonesian](/README-ID.md) | [Türkçe](/README-tr.md) | [한국어](/README-kr.md) | [Français](/README-fr.md) | [Español](/README-es.md)
+**日本語** | [English](./README_EN.md) | [简体中文](/README-zhHans.md) | [繁体中文](/README-zhHant.md) | [Indonesian](/README-ID.md) | [Türkçe](/README-tr.md) | [한국어](/README-kr.md) | [Français](/README-fr.md) | [Español](/README-es.md) | [Português](./README_pt_BR.md)
 
 </div>
 
