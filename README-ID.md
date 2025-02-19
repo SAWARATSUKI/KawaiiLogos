@@ -38,7 +38,7 @@ Misalnya, produksi stiker dianggap sebagai penggunaan pribadi.
 > [!WARNING]
 > Produk apa pun yang dibuat menggunakan logo ini tidak boleh dijual.
 
-- Penggunaan logo untuk tujuan komerisal pada dasarnya dilarang.  
+- Penggunaan logo untuk tujuan komersial pada dasarnya dilarang.  
 Namun, diperbolehkan dalam kondisi berikut.
   > - Jika Anda ingin menggunakan logo tersebut sebagai logo resmi untuk penggunaan komersial, atau jika Anda telah memperoleh izin resmi untuk seluruh ketentuan lisensi ini.  
   > - Jika Anda diizinkan untuk menggunakan logo sesuai dengan "Lisensi masing-masing logo" di bawah
@@ -55,12 +55,12 @@ Selain aturan umum yang telah disebutkan sebelumnya, mohon perhatikan dan patuhi
 
 ### Kode status
 
-> Kode status seperti 404 NotFound, 403 Forbidden, 503 Service Unavailable, [dan lain-lan](https://github.com/SAWARATSUKI/KawaiiLogos/tree/main/ResponseCode).  
+> Kode status seperti 404 NotFound, 403 Forbidden, 503 Service Unavailable, [dan lain-lain](https://github.com/SAWARATSUKI/KawaiiLogos/tree/main/ResponseCode).  
 > Anda dapat menggunakan kode status ini di situs web yg dimonetisasi.
 
 ### Kotlin
 
-> Logo ini tidak secara resmi didukung oleh Kotlin Foundaton  
+> Logo ini tidak secara resmi didukung oleh Kotlin Foundation  
 > (Tetapi sudah dikonfirmasi secara resmi)
 
 ## Ucapan Terima Kasih
