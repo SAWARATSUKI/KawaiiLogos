@@ -9,8 +9,8 @@
 Hello and good evening. This is the repository where the logos created by Sawaratsuki are uploaded.
 
 > [!WARNING]
-> The logo here is the logo created by Sawaratsuki. They are not created by the respective services or organizations.  
->  Not all logos are officially used.
+> The logos here are created by Sawaratsuki. They are not created by the respective services or organizations.  
+> Not all logos are officially used.
 > Please be careful not to overdose on "kawaii".
 
 > [!IMPORTANT]
@@ -65,7 +65,7 @@ In addition to the above, please use the logos in accordance with the following 
 ### GitHub
 
 > This logo has not been officially approved by GitHub.  
-> (However, GitHub Japan has received and confirmed the notification regarding its publication.)
+> (However, GitHub Japan has received and confirmed the notification regarding it's publication.)
 
 ## Acknowledgements
 
