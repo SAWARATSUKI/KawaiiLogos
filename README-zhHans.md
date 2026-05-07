@@ -11,7 +11,7 @@
 > [!WARNING]
  这里的所有 Logo 都是由 Sawaratsuki 创建的，而不是由相应的服务或组织创建的。
  并非所有 Logo 都是官方使用的 Logo。
- 请注意过量摄入可爱元素。
+ 请注意不要过量摄入可爱元素。
 
 > [!IMPORTANT]
  未经 Sawaratsuki 许可，不得将此仓库的内容用于 AI 或类似用途。
