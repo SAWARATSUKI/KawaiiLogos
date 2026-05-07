@@ -1,6 +1,8 @@
 # KawaiiLogos
 
-[日本語 README](./README.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md)
+[日本語 README](./README.md) | [简体中文 README](/README-zhHans.md) | [Indonesian README](/README-ID.md) | [Türkçe README](/README-tr.md) | [한국어 README](/README-kr.md) | [README Français](/README-fr.md) | [Português README](./README_pt_BR.md)
+
+<a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 Witam i dobry wieczór. To jest repozytorium, w którym znajdują się loga stworzone przez Sawaratsuki.
 
@@ -13,6 +15,8 @@ Witam i dobry wieczór. To jest repozytorium, w którym znajdują się loga stwo
 > [!IMPORTANT]
  Zawartość tego repozytorium nie może być wykorzystywana do AI ani niczego innego, co Sawaratsuki uzna za równoważne.  
  Należy być tego świadomym.
+
+<a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## Licencja
 
@@ -54,6 +58,11 @@ Tych kodów odpowiedzi można używać w witrynach internetowych, na których mo
 
 > To logo nie jest oficjalnie zatwierdzone przez Kotlin Foundation.  
 (Ale zostało oficjalnie zweryfikowane).
+
+### GitHub
+
+> To logo nie zostało oficjalnie zatwierdzone przez GitHub.
+> (Jednak jego publikacja została potwierdzona przez GitHub Japan.)
 
 ## Podziękowania
 

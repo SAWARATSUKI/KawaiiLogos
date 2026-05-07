@@ -1,8 +1,10 @@
 # KawaiiLogos
 
 <div align="center">
+
+<a href="https://hellogithub.com/repository/88d2fabe0d6949b88bd5cc181618c8a3" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=88d2fabe0d6949b88bd5cc181618c8a3&claim_uid=LcBfQDvu13tNTd2" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
  
-[日本語](./README.md) | [English](./README_EN.md) | [简体中文](/README-zhHans.md) | [繁体中文](/README-zhHant.md) | [Indonesian](/README-ID.md) | [Türkçe](/README-tr.md) | [한국어](/README-kr.md) | [Français](/README-fr.md) | **Español**
+[日本語](./README.md) | [English](./README_EN.md) | [简体中文](/README-zhHans.md) | [繁体中文](/README-zhHant.md) | [Indonesian](/README-ID.md) | [Türkçe](/README-tr.md) | [한국어](/README-kr.md) | [Français](/README-fr.md) | **Español** | [Português](./README_pt_BR.md)
 
 </div>
 
@@ -60,6 +62,11 @@ Puedes usarlos en sitios web monetizados.
 
 > Este logo no está respaldado oficialmente por la Kotlin Foundation.
 (Pero ha sido oficialmente verificado.)
+
+### GitHub
+
+> Este logo no ha sido aprobado oficialmente por GitHub.
+> (Sin embargo, su publicación ha sido confirmada por GitHub Japan.)
 
 ## Agradecimientos
 
